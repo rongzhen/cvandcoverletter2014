@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.19)  26 FEB 2014 21:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.19)  27 FEB 2014 09:42
 entering extended mode
  %&-line parsing enabled.
 **cv.tex
@@ -418,31 +418,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 115.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 115.
-
-Overfull \hbox (26.72232pt too wide) in paragraph at lines 115--122
-[][] 
- []
-
 <kth.jpg, id=1, 71.42685pt x 71.42685pt>
 File: kth.jpg Graphic file (type jpg)
  <use kth.jpg> [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./kth.jpg>] [2] (./cv.aux)
- ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./kth.jpg>] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 198--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--238
+
+ []
+
+[3] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
- 1851 strings out of 495061
- 23548 string characters out of 1182620
+ 1850 strings out of 495061
+ 23538 string characters out of 1182620
  81160 words of memory out of 3000000
- 5020 multiletter control sequences out of 15000+50000
+ 5019 multiletter control sequences out of 15000+50000
  7293 words of font info for 26 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  27i,11n,29p,217b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on cv.pdf (2 pages, 304143 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on cv.pdf (3 pages, 306563 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
