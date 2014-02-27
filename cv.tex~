@@ -39,12 +39,20 @@
 %\pagestyle{fancy}
 
 \newcommand\BackgroundPic{
-\put(430,555){
+\put(460,540){
 \parbox[t]{\textwidth}{
-\includegraphics[width=4.22cm]{kth}
+\includegraphics[width=3cm]{myself1}
 }
 }
 }
+
+%\newcommand\BackgroundPic{
+%\put(450,550){
+%\parbox[t]{\textwidth}{
+%\includegraphics[width=3cm]{myself}
+%}
+%}
+%}
 
 \begin{document}
 
@@ -194,6 +202,7 @@ Liaoning Provincial Outstanding class cadre (2006)
 
 \begin{rSection}{References}
 
+
 {\bf Prof. Börje Johansson} \\
 Applied Materials Physics \\
 Department of Materials Science and Engineering \\
@@ -203,6 +212,7 @@ Phone: +46 (0) 70 417 54 52 \\
 Email: borje.johansson@physics.uu.se \\
   \hspace*{11.5mm}     borjej@kth.se \\
   
+
 
 {\bf Prof. Clas Persson} \\
 Multiscale Materials Modelling \\
@@ -215,7 +225,6 @@ University of Oslo \\
 NO-0316 Oslo, Norway \\
 Phone: +46 (0)8-790 8332\\
 Email: Clas.Persson@mse.kth.se \\
-
 
 
 {\bf Prof. Malin Selleby} \\

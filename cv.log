@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.19)  27 FEB 2014 09:42
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.19)  27 FEB 2014 22:22
 entering extended mode
  %&-line parsing enabled.
 **cv.tex
@@ -335,18 +335,18 @@ Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
 ) (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -403,60 +403,60 @@ ABD: EveryShipout initializing macros
 \MPnumerator=\count95
 \everyMPtoPDFconversion=\toks21
 )
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--69
+Underfull \hbox (badness 10000) in paragraph at lines 71--77
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 115.
+(Font)              <10.95> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 115.
+(Font)              <8> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 115.
-<kth.jpg, id=1, 71.42685pt x 71.42685pt>
-File: kth.jpg Graphic file (type jpg)
- <use kth.jpg> [1
+(Font)              <6> on input line 123.
+<myself1.png, id=1, 473.77pt x 711.65875pt>
+File: myself1.png Graphic file (type png)
+ <use myself1.png> [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./kth.jpg>] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 198--206
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 209--220
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./myself1.png>] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 206--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--229
+Underfull \hbox (badness 10000) in paragraph at lines 217--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--238
+Underfull \hbox (badness 10000) in paragraph at lines 230--237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--246
 
  []
 
 [3] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
- 1850 strings out of 495061
- 23538 string characters out of 1182620
- 81160 words of memory out of 3000000
+ 1849 strings out of 495061
+ 23554 string characters out of 1182620
+ 81161 words of memory out of 3000000
  5019 multiletter control sequences out of 15000+50000
  7293 words of font info for 26 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 27i,11n,29p,217b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,11n,26p,217b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10
 .pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on cv.pdf (3 pages, 306563 bytes).
+Output written on cv.pdf (3 pages, 562585 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
