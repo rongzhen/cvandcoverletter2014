@@ -39,9 +39,9 @@
 %\pagestyle{fancy}
 
 \newcommand\BackgroundPic{
-\put(460,540){
+\put(450,545){
 \parbox[t]{\textwidth}{
-\includegraphics[width=3cm]{myself1}
+\includegraphics[width=3.7cm]{myself3}
 }
 }
 }
@@ -81,13 +81,13 @@
 
 \vspace*{1\baselineskip}
 
-\begin{rSection}{EDUCATION}
+\begin{rSection}{EDUCATION AND WORK EXPERIENCE}
 
 {\bf KTH Royal Institute of Technology, Sweden} \hfill { Sept. 2009 -- Sept. 2014 (expected)} \\ 
 Department of Materials Science and Engineering \\
-Doctor of Philosophy in Multiscale Materials Modelling.
+Doctor of Philosophy in Applied Physics.
 
-Projects: Implementation of Algorithm within Density Functional Theory (DFT) and DFT-based Simulations in Semiconductor. \\
+Projects: Scientific Software Development and Modelling in Renewable Energy Materials \\
 Courses: Solid State Physics, Nanoscale Materials, Applied Thermodynamics. \\
 Supervisors: Prof. Clas Persson and Prof. Börje Johansson. 
 
@@ -121,11 +121,11 @@ Thesis: Qt-based application: Text Editor.
 \begin{rSection}{COMPUTER SKILLS }
 
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-Programming Languages & Fortran, C Language, Java, Python, Bash, SQL \\
-Softwares  & Thermo-Calc, Matlab, Eclipse, Github, ANSYS, TotalView, Latex \\
+Programming Languages & C Language, Java, Fortran, Python, Bash, SQL \\
+Softwares  & Matlab, Eclipse, ANSYS, TotalView, Latex, Thermo-Calc  \\
 Operating Systems & Windows, Linux, Mac \\
 Others & Lapack and Blas Libraries, High Performance Computing, \\
-       & Parallel Programming
+       & Parallel Programming, Github
 \end{tabular}
 
 \end{rSection}
@@ -148,15 +148,96 @@ Others & Lapack and Blas Libraries, High Performance Computing, \\
 %	WORK EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
 \begin{rSection}{LANGUAGES}
-\textbf{Chinese} (Mother tongue), \textbf{English} (Fluent), \textbf{Swedish} (Beginner, still learning)
+\textbf{Chinese} (Mother tongue), \textbf{English} (Fluent), \textbf{Swedish} (Beginner)
 
 \end{rSection}
 
 
 
-%\newpage
+
+\%newpage
+
+{\Huge{\hfill \emph{Cover Letter} \hfill}}
+%\includegraphics[width=100pt]{kth} \par
+
+\rule{\textwidth}{1.5pt}
+
+\null\hfill
+\begin{tabular}{l@{}}
+    Applied Materials Physics \\
+    KTH Royal Institute of Technology \\
+  Phone: +46 (0) 70 780 86 42 \\
+  Email: Rongzhen.Chen@mse.kth.se
+\end{tabular}  
+
+
+\bigskip\bigskip
+
+
+
+\begin{tabular}{@{}l}
+ \bf{Job title: Analyst, New Customer Marketing, Group Analytics } \\
+ Stockholm or Oslo
+\end{tabular}
+
+
+
+\bigskip\bigskip
+
+\begin{spacing}{1.2}
+\bigskip
+
+
+
+Dear Recruiting Manager,
+
+\vspace*{1\baselineskip}
+
+I am writing to apply for the position of Analyst, New Customer Marketing, Group Analytics in Stockholm or Oslo.
+I am a PhD candidate at KTH Royal Institute of Technology, Sweden, and the expecting dissertation will be in September 2014. 
+I believe that my knowledge on mathematics, programming skills and finance would make me a 
+valuable asset in your company. Moreover, I have more than 4 years team-working experience in scientific software development.
+
+\vspace*{1\baselineskip}
+
+My interest about the mathematics and finance starts from my bachelor. My bachelor is in the major of
+information and computational science (computational mathematics), I have learnt not only different computational methods but also the programming skills like C language and data structure.
+One of the application for the mathematics is finance, I really enjoy how to take the mathematics knowledge into the field of finance. During 
+my master, I simulated the process of continuous casting using ANSYS base on finite element method (FEM). While I helped one PhD student debug his own code based on FEM. 
+
+\vspace*{1\baselineskip}
+
+Regarding my experience in software development, actually I am involved in the development of the \textquotedblleft Exciting code \textquotedblright \ as an international developer (http://exciting-code.org/current-developers) since 2009, therefore, I have been programming over 4 years using Fortran. The main work is to
+improve the existing numerical algorithms and make the software more efficient and accurate, which requires that I have solid knowledge on mathematics, physics and programming skills.
+I also perform some calculations in semiconductor, and Matlab, Bash script and Python are used to process the data from my calculations. 
+I have basic Java programming knowledge as well. The best fortune I have obtained from my previous study and research experience is the ability of fast learning.
+
+\vspace*{1\baselineskip}
+
+ I am the PhD representative at my division at KTH and was class president when
+I was an undergraduate. Therefore, I truly know the value of team work. In my spare time I enjoy travelling, skiing and making new friends.
+
+\vspace*{1\baselineskip}
+
+I look forward to meeting with you for an interview.
+
+\vspace*{2\baselineskip}
+
+Best Regards,
+
+\includegraphics[scale=0.5]{signature}
+
+Rongzhen Chen
+ 
+
+
+\end{spacing}
+
+
+
 %\vspace*{1\baselineskip}
 
+\begin{comment}
 \begin{rSection}{research visit}
  
 Developers Week for Exciting code at the Humboldt Universität zu Berlin, (02 Dec. -- 06 Dec. 2013) 
@@ -194,28 +275,16 @@ Liaoning Provincial Outstanding class cadre (2006)
 
 
 
+
 \newpage
 
-%\begin{comment}
  
 
 
 \begin{rSection}{References}
 
-
-{\bf Prof. Börje Johansson} \\
-Applied Materials Physics \\
-Department of Materials Science and Engineering \\
-KTH Royal Institute of Technology \\
-SE – 100 44 Stockholm, Sweden  \\
-Phone: +46 (0) 70 417 54 52 \\
-Email: borje.johansson@physics.uu.se \\
-  \hspace*{11.5mm}     borjej@kth.se \\
-  
-
-
 {\bf Prof. Clas Persson} \\
-Multiscale Materials Modelling \\
+Division of Multiscale Materials Modelling \\
 Department of Materials Science and Engineering \\
 KTH Royal Institute of Technology \\
 SE – 100 44 Stockholm, Sweden \\
@@ -227,27 +296,29 @@ Phone: +46 (0)8-790 8332\\
 Email: Clas.Persson@mse.kth.se \\
 
 
-{\bf Prof. Malin Selleby} \\
-Division of Computational Thermodynamics \\
+{\bf Prof. Börje Johansson} \\
+Division of Applied Materials Physics \\
 Department of Materials Science and Engineering \\
 KTH Royal Institute of Technology \\
-SE-100 44 Stockholm, Sweden \\
-Phone: +46 (0)8-790 8389  \\
-Email: malin@kth.se \\
-
+SE – 100 44 Stockholm, Sweden  \\
+Phone: +46 (0) 70 417 54 52 \\
+Email: borje.johansson@physics.uu.se \\
+  \hspace*{11.5mm}     borjej@kth.se \\
+  
 
 {\bf Dr. Huahai Mao} \\
 Division of Computational Thermodynamics \\
 Department of Materials Science and Engineering \\
 KTH Royal Institute of Technology \\
-SE-100 44 Stockholm, Sweden \\
+SE – 100 44 Stockholm, Sweden \\
 Phone: +46 (0)8-790 6597 \\
 Email: huahai@kth.se \\
 
 
 \end{rSection}
 
-%\end{comment}
 
+
+\end{comment}
 
 \end{document}

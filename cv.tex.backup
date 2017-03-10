@@ -29,6 +29,8 @@
 \usepackage{color}
 \usepackage{eso-pic}
 
+
+
 \name{Curriculum Vitae} % Your name
 
 %\address{Brinellvägen 23, MSE/KTH, 100 44 Stockholm, Sweden} % Your address
@@ -39,12 +41,21 @@
 %\pagestyle{fancy}
 
 \newcommand\BackgroundPic{
-\put(420,555){
+\put(450,570){
 \parbox[t]{\textwidth}{
-\includegraphics[width=4.22cm]{kth}
+\includegraphics[width=3cm]{myself3}
 }
 }
 }
+
+%\newcommand\BackgroundPic{
+%\put(450,550){
+%\parbox[t]{\textwidth}{
+%\includegraphics[width=3cm]{myself}
+%}
+%}
+%}
+
 
 \begin{document}
 
@@ -63,43 +74,47 @@
  {\bf Name: } \hspace*{14mm} Rongzhen Chen \\
  {\bf Gender: } \hspace*{11mm} Male \\
  {\bf Date of Birth: } August 04, 1983 \\
- {\bf Address: } \hspace*{10mm}  Brinellvägen 23, 100 44 Stockholm, Sweden \\
- {\bf Phone: } \hspace*{14mm}  +46 (0) 70 780 86 42  \\
- {\bf Email: } \hspace*{14mm}  Rongzhen.Chen@mse.kth.se  \\ 
+ {\bf Address: } \hspace*{9.3mm} Arnljot Gellines vei 31 B55, Oslo \\
+ {\bf Phone: } \hspace*{12.7mm}  +46 (0) 70 780 86 42  \\
+ {\bf Email: } \hspace*{14mm}  Rongzhen.Chen@mse.kth.se \\ 
  
 
  
 \end{rSection}
 
-\vspace*{1\baselineskip}
+%\vspace*{1\baselineskip}
 
-\begin{rSection}{EDUCATION}
+\begin{rSection}{EDUCATION AND RESEARCH}
+{\bf University of Oslo, Norway} \hfill {Apr. 2016 -- May 2017} \\ 
+Department of Physics \\
+Researcher in Structure Physics.
 
-{\bf KTH Royal Institute of Technology, Sweden} \hfill { Sept. 2009 -- Sept. 2014 (expected)} \\ 
+{\bf KTH Royal Institute of Technology, Sweden} \hfill { Sept. 2009 -- May 2017} \\ 
 Department of Materials Science and Engineering \\
-Doctor of Philosophy in Multiscale Materials Modelling.
+PhD Candidate in Multiscale Materials Modelling.
 
-Projects: Implementation of Algorithm within Density Functional Theory (DFT) and DFT-based Simulations in Semiconductor. \\
-Courses: Solid State Physics, Nanoscale Materials, Applied Thermodynamics. \\
-Supervisors: Prof. Clas Persson and Prof. Börje Johansson. 
+Projects: First-Principles Study of Electronic and Optical Properties \\ \hspace*{15.5mm} of Copper-Based Chalcogenide Photovoltaic Materials.
+
+Licentiate of Engineering awarded on March 6th, 2015. \\
+PhD dissertation defense is expected on May, 2017.
 
 {\bf Northeastern University, P. R. China} \hfill { Sept. 2008 -- July 2009} \\ 
 College of Information Science and Engineering \\
-Research Assistant in Control Theory and Control Engineering.
+PhD Candidate in Control Theory and Control Engineering (Incomplete).
 
 
 {\bf Northeastern University, P. R. China} \hfill { Sept. 2006 -- July 2008} \\ 
 College of Information Science and Engineering \\
 Master of Science in Measuring and Testing Technologies and Instruments.
 
-Courses: Java, Matrix Analysis, Equation of Mathematical Physics. \\
+%Courses: Java, Matrix Analysis, Equation of Mathematical Physics. \\
 Thesis: ANSYS-based Simulations in the Process of Continuous Casting.
 
 {\bf Shenyang University of Technology, P. R. China} \hfill { Sept. 2002 -- July 2006} \\ 
 College of Science \\
 Bachelor of Science in Information and Computational Science.
 
-Courses: C language, Data Structure, Numerical Analysis, Physics, Software Engineering. \\
+%Courses: C language, Data Structure, Numerical Analysis, Physics, Software Engineering. \\
 Thesis: Qt-based application: Text Editor.
 
 \end{rSection}
@@ -110,19 +125,18 @@ Thesis: Qt-based application: Text Editor.
 %	TECHNICAL STRENGTHS SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{COMPUTER SKILLS }
 
-\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-Programming Languages & Fortran, C Language, Java, Python, Bash, SQL \\
-Softwares  & Thermo-Calc, Matlab, Eclipse, Github, ANSYS, TotalView, Vim, Latex \\
-Operating Systems & Windows, Linux, Mac \\
-Others & Lapack and Blas Libraries, High Performance Computing, \\
-       & Parallel Programming
-\end{tabular}
+%\begin{rSection}{COMPUTER SKILLS }
 
-\end{rSection}
+%\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+%Programming Languages & Python, Fortran, Java, C Language, Bash, SQL \\
+%Softwares  & Matlab, Office, Eclipse, ANSYS, TotalView, Latex  \\
+%Operating Systems & Windows, Linux, Mac
+%\end{tabular}
 
-\vspace*{1\baselineskip}
+%\end{rSection}
+
+%\vspace*{1\baselineskip}
 
 
 
@@ -139,100 +153,181 @@ Others & Lapack and Blas Libraries, High Performance Computing, \\
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
-\begin{rSection}{LANGUAGES}
-\textbf{Chinese} (Mother tongue), \textbf{English} (Fluent), \textbf{Swedish} (Beginner, still learning)
-
-\end{rSection}
-
+%\begin{rSection}{LANGUAGES}
+%\textbf{Chinese} (Mother tongue), \textbf{English} (Fluent), \textbf{Swedish} (Beginner)
+%\end{rSection}
 
 
-%\newpage
-%\vspace*{1\baselineskip}
+\newpage
+\begin{rSection}{PUBLICATIONS}
 
-\begin{rSection}{research visit}
+\subsection*{Journal Papers:}
  
-Developers Week for Exciting code at the Humboldt Universität zu Berlin, (Dec. 2 -- Dec. 6, 2013) 
+ \begin{enumerate}
+\renewcommand{\labelenumi}{\Roman{enumi}}
 
-The Group of  Prof. Clas Persson at the University of Oslo in Norway (Apr. -- Aug. 2012)
 
-The Group of Prof. Claudia Ambrosch-Draxl at the University of Leoben in Austria (Oct. -- Dec. 2011)
+%\item{} \textbf{Parameterization of $CuIn_{1−x}Ga_{x}Se_2$ (x = 0, 0.5, and 1) energy bands}
 
-Introduction to High-Performance Computing, Sweden PDC-Summer School (2011) 
+\item{}  \textbf{Parameterization of $\mathbf {CuIn_{1-\textit{x}}Ga_\textbf{\textit{x}}Se_2}$ (\textbf{\textit{x}} = 0, 0.5, and 1) energy bands}
+\\\textbf{R. Chen} and C. Persson, \textit{Thin Solid Films} {\textbf {519}}, 7503 (2011).
 
-Introduction to High Performance Computing, Finland CSC-Summer School (2011)
- 
+
+
+\item{}\textbf{Band-edge density-of-states and carrier concentrations in intrinsic and $p$-type $\mathbf {CuIn_{1-\textit{x}}Ga_\textbf{\textit{x}}Se_2}$}
+\\\textbf{R. Chen} and C. Persson, \textit{Journal of Applied Physics} {\textbf {112}}, 103708 (2012).
+
+\item{} \textbf{Dielectric function spectra at 40 K and critical-point energies for $\mathbf {CuIn_{0.7}Ga_{0.3}Se_2}$}
+\\ S.G. Choi, \textbf{R. Chen}, C. Persson, T.J. Kim, S.Y. Hwang, Y.D. Kim, and L.M. Mansfield,
+\textit{Applied Physics Letters} {\textbf {101}}, 261903 (2012).
+
+\item{} \textbf{Dielectric function and double absorption onset in monoclinic $\mathbf {Cu_{2}SnS_{3}}$: origin of experimental features explained by first-principles calculations}
+\\ A. Crovetto, \textbf{R. Chen}, R.B. Ettlinger, A.C. Cazzaniga, J. Schou, C. Persson, O. Hansen,
+\textit{Solar Energy Materials and Solar Cells} {\textbf {154}}, 121 (2016).
+
+\item{} \textbf{Exploring the electronic and optical properties of $\mathbf {Cu_{2}Sn_{1-\textit{x}}Ge_\textbf{\textit{x}}S_{3}}$ and $\mathbf {Cu_{2}Sn_{1-\textit{x}}Si_\textbf{\textit{x}}S_{3}}$ (\textbf{\textit{x}} = 0, 0.5, and 1)}
+\\ \textbf{R. Chen} and C. Persson, accepted by \textit{Physica Status Solidi (c)} (2016).
+
+\item{} \textbf{Electronic and optical properties of $\mathbf {Cu_{2}}$\textbf{\textit{X}}$\mathbf {SnS_{4}}$ (\textbf{\textit{X}} = Be, Mg, Ca, Mn, Fe, and Ni) and the impact of native defect pairs}
+\\ \textbf{R. Chen} and C. Persson, submitted to \textit{Journal of Applied Physics} (2017).
+
+\item{} \textbf{High absorption coefficients of the $\mathbf {CuSb(Se,Te)_2}$ and $\mathbf {CuBi(S,Se)_2}$ alloys enable high efficient 100 nm thin-film photovoltaics}
+\\ \textbf{R. Chen} and C. Persson, submitted to \textit{EPJ Photovoltaics} (2017).
+
+\item{} \textbf{Investigation of the structural, optical and electronic properties of $\mathbf{Cu_2}\mathbf{Zn(Sn,Si/Ge)}\mathbf{(S/Se)_4}$ alloys for solar cell applications}
+\\ S. Zamulko, \textbf{R. Chen} and C. Persson, accepted by \textit{Physica Status Solidi (b)} (2017).
+
+
+
+\renewcommand{\labelenumi}{\Roman{enumi}}
+\setcounter{enumi}{0}
+
+\subsection*{Book Chapter:}
+
+\item{}\textbf{Electronic structure and optical properties from first-principles modeling} \\
+C. Persson, \textbf{R. Chen}, H. Zhao, M. Kumar, and D. Huang, Chapter in ''Copper zinc tin sulphide-based thin film solar cells'',
+edited by K. Ito, p. 75$-$106 ({\textit John Wiley $\&$ Sons}, 2015).
+
+
+%\end{enumerate}
+
+\subsection*{International Conference Contributions:}
+
+%\begin{enumerate}
+
+
+\renewcommand{\labelenumi}{\Roman{enumi}}
+\setcounter{enumi}{0}
+
+\item{} \textbf{Band structure and optical properties of $\mathbf {CuInSe_2}$}
+\\ \textbf{R. Chen} and C. Persson,
+\textit{Advanced Materials Research Journal} {\textbf {894}}, 254 (2014). \\
+\textit{4th International Conference on Advanced Materials Research (ICAMR$-$4), Macao, China, 23$-$24 Jan. 2014.}
+
+\item{} \textbf{Electronic modeling and optical properties of $\mathbf {CuIn_{0.5}Ga_{0.5}Se_2}$ thin film solar cell}
+\\ \textbf{R. Chen} and C. Persson,
+\textit{Journal of Applied Mathematics and Physics} {\textbf 2}, 41 (2014). \\
+\textit{Conference on New Advances in Condensed Matter Physics (NACMP 2014), Shenzhen, 14$-$16 Jan 2014.}
+
+\end{enumerate}
+
+
+
+
 \end{rSection}
-
-
-\begin{rSection}{ACTIVITIES}
-
-
-{\bf PhD Student Representative at the Division} (Oct. 2011 $\longrightarrow$ Present).\\
-The duty is to discuss all the issues regarding PhD students' interests.
-
-
-{\bf Class President} (Sept. 2002 $\longrightarrow$ July 2006).\\
-The duty is to resolve problems for students and report to the department, as well as leading class cabinet meetings and organizing activities and events.
-                            
-\end{rSection}
-
-\begin{rSection}{AWARDS}
-Liaoning Provincial triple A Outstanding Student (2006)\\
-Liaoning Provincial Outstanding class cadre (2006)
-\end{rSection}
-
-
-
 
 
 
 \newpage
 
-\begin{comment}
+\begin{rSection}{CONFERENCES AND WORKSHOPS}
+
+\textbf{Poster Presentation (Dec. 2016)} \\
+2016 MRS Fall Meeting \& Exhibit - Materials Research Society, Boston, USA.
+
+\textbf{Poster Presentation (Sept. 2016)} \\
+The 6th International Workshop on Quantum Energy, Xiangtan, China.
+
+\textbf{Poster Presentation (Sept. 2016)} \\
+The 20th International Conference on Ternary and Multinary Compounds, Halle, Germany.
+
+\textbf{Oral Presentation (May 2016)} \\
+The 2016 E-MRS Spring Meeting, Lille, France.
+
+\textbf{Oral Presentation (May 2015)} \\
+The 2015 E-MRS Spring Meeting, Lille, France.
+
+\textbf{Oral Presentation (Jan. 2014)} \\
+The 4th International Conference on Advanced Materials Research, Macao, China.
+
+\textbf{Oral Presentation (Jan. 2014)} \\
+Conference on New Advances in Condensed Matter Physics, Shenzhen, China.
+
+
+
+
  
+\end{rSection}
 
+\begin{rSection}{ACTIVITIES}
+\textbf{Research Visiting (Oct. 2016)} \\
+Visiting in the Group of Prof. Nemcsics Ákos at Óbuda University, Budapest, Hungary.
 
-\begin{rSection}{References}
+%\textbf{Research Visiting (Sept. 2016)} \\
+%Visiting in the Group of Prof. Charlotte Platzer Björkman at Uppsala University, Uppsala, Sweden.
 
-{\bf Prof. Börje Johansson} \\
-Applied Materials Physics \\
-Department of Materials Science and Engineering \\
-KTH Royal Institute of Technology \\
-SE – 100 44 Stockholm, Sweden  \\
-Phone: +46 (0) 70 417 54 52 \\
-Email: borje.johansson@physics.uu.se \\
-       borjej@kth.se
+\textbf{Research Visiting (Dec. 2013)} \\
+Developers Week in the Group of Prof. Claudia Ambrosch-Draxl at the Humboldt-Universität zu Berlin, Berlin, Germany.
 
-{\bf Prof. Clas Persson} \\
-Multiscale Materials Modelling \\
-Department of Materials Science and Engineering \\
-KTH Royal Institute of Technology \\
-SE – 100 44 Stockholm, Sweden \\
-Phone: +46 (0)8-790 8332\\
-Email: Clas.Persson@mse.kth.se \\
+\textbf{Research Visiting (Oct.-Dec. 2011)} \\
+Visiting in the Group of Prof. Claudia Ambrosch-Draxl at the University of Leoben, Leoben, Autria.
 
+\textbf{High-Performance Computing-Summer School (2011)} \\
+Introduction to High-Performance Computing, Sweden PDC- Center for High-Performance Computing-Summer School, Stockholm, Sweden
 
-{\bf Prof. Malin Selleby} \\
-Division of Computational Thermodynamics \\
-Department of Materials Science and Engineering \\
-KTH Royal Institute of Technology \\
-SE-100 44 Stockholm, Sweden \\
-Phone: +46 (0)8-790 8389  \\
-Email: malin@kth.se \\
-
-
-{\bf Dr. Huahai Mao} \\
-Division of Computational Thermodynamics \\
-Department of Materials Science and Engineering \\
-KTH Royal Institute of Technology \\
-SE-100 44 Stockholm, Sweden \\
-Phone: +46 (0)8-790 6597 \\
-Email: huahai@kth.se \\
-
+\textbf{High-Performance Computing-Summer School (2011)} \\
+Introduction to High Performance Computing, Finland CSC IT Center for Science Ltd - Summer School, Espoo, Finland.
 
 \end{rSection}
 
-\end{comment}
+
+\begin{rSection}{AWARDS}
+
+\textbf{Best Poster Award (Sept. 2016)} \\
+The 6th International Workshop on Quantum Energy, Xiangtan, China.
+
+\end{rSection}
+
+
+
+\newpage
+
+\begin{rSection}{REFERENCES}
+ {\bf Prof. Clas Persson} \\
+%Division of Multiscale Materials Modelling \\
+Department of Materials Science and Engineering \\
+KTH Royal Institute of Technology \\
+SE – 100 44 Stockholm, Sweden \\
+ -- and -- \\
+Department of Physics \\
+University of Oslo \\
+NO-0316 Oslo, Norway \\
+Phone: +47 228 52424\\
+Email: Clas.Persson@mse.kth.se \\
+
+
+{\bf Dr. Huahai Mao} \\
+%Division of Computational Thermodynamics \\
+Department of Materials Science and Engineering \\
+KTH Royal Institute of Technology \\
+SE – 100 44 Stockholm, Sweden \\
+Phone: +46 (0)8-790 6597 \\
+Email: huahai@kth.se \\
+
+ 
+ 
+\end{rSection}
+
 
 
 \end{document}
